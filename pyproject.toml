@@ -4,12 +4,12 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "xai-easy"
-version = "0.1.0"
+version = "1.0.1"
 description = "A lightweight package for Explainable AI on ML models"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "Prajwal Chopade", email = "your-email@example.com"}
+    {name = "Prajwal Chopade", email = "chopadeprajwal06@gmail.com"}
 ]
 dependencies = [
     "scikit-learn",
@@ -19,5 +19,5 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/your-username/xai_easy"
-"Bug Tracker" = "https://github.com/your-username/xai_easy/issues"
+"Homepage" = "https://github.com/PrajwalChopade/xai_easy"
+"Bug Tracker" = "https://github.com/PrajwalChopade/xai_easy/issues"
