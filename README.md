@@ -33,11 +33,12 @@ pip install xai-easy
 
 Here's a complete example showing how to use XAI Easy to explain a machine learning model:
 
-![Code Example - Professional XAI Easy implementation showing model training and explanation generation](./code.png)
+![Code Example - Professional XAI Easy implementation showing model training and explanation generation](https://raw.githubusercontent.com/PrajwalChopade/xai_easy/main/code.png)
+
 *Professional implementation example demonstrating XAI Easy's simple yet powerful API for model explainability*
 
 ### Console Output
-![Console Output - Clean, professional terminal output with structured explanations and success confirmation](./output.png)  
+![Console Output - Clean, professional terminal output with structured explanations and success confirmation](https://github.com/PrajwalChopade/xai_easy/blob/main/output.png)  
 *Clean console output showing feature importance rankings and successful HTML report generation with professional branding*
 
 ---
@@ -47,23 +48,23 @@ Here's a complete example showing how to use XAI Easy to explain a machine learn
 XAI Easy generates comprehensive HTML reports with modern, responsive design:
 
 ### 1. Report Header & Summary Dashboard
-![Report Header - Professional gradient header with model analysis summary and key statistics dashboard](./opui1.png)
+![Report Header - Professional gradient header with model analysis summary and key statistics dashboard](https://github.com/PrajwalChopade/xai_easy/blob/main/opui1.png)
 *Modern report header featuring gradient styling, model analysis title, and key performance metrics in an intuitive dashboard layout*
 
 ### 2. Global Feature Importance Analysis  
-![Global Feature Importance - Interactive horizontal bar chart showing model-wide feature contributions with gradient colors](./opui2.png)
+![Global Feature Importance - Interactive horizontal bar chart showing model-wide feature contributions with gradient colors](https://github.com/PrajwalChopade/xai_easy/blob/main/opui2.png)
 *Interactive feature importance visualization with gradient color coding and precise value labels, showing which features matter most globally*
 
 ### 3. Detailed Feature Importance Table
-![Feature Importance Table - Professional data table with rankings, importance scores, and detailed explanations](./opui3.png) 
+![Feature Importance Table - Professional data table with rankings, importance scores, and detailed explanations](https://github.com/PrajwalChopade/xai_easy/blob/main/opui3.png) 
 *Comprehensive feature importance table with professional styling, clear rankings, and detailed explanations for stakeholder communication*
 
 ### 4. Local Instance Explanation Dashboard
-![Local Explanation Dashboard - Instance-specific analysis showing positive/negative feature contributions with summary statistics](./opui4.png)
+![Local Explanation Dashboard - Instance-specific analysis showing positive/negative feature contributions with summary statistics](https://github.com/PrajwalChopade/xai_easy/blob/main/opui4.png)
 *Local explanation dashboard displaying positive and negative feature contributions with summary statistics for specific prediction analysis*
 
 ### 5. Local Feature Contributions Chart
-![Local Feature Contributions - Diverging bar chart showing positive and negative feature impacts on individual predictions](./opui5.png)
+![Local Feature Contributions - Diverging bar chart showing positive and negative feature impacts on individual predictions](https://github.com/PrajwalChopade/xai_easy/blob/main/opui5.png)
 *Professional diverging bar chart visualizing how individual features positively or negatively influence specific model predictions*
 
 ---
